@@ -3,3 +3,5 @@
 
 [Python for finance,github](https://github.com/yhilpisch/py4fi2nd)
 
+[Artificial Intelligence in Finance](https://github.com/yhilpisch/aiif)
+
