@@ -11,3 +11,5 @@
 
 [ai-quant-trade](https://github.com/charliedream1/ai_quant_trade?tab=readme-ov-file)
 
+[qlib](https://github.com/microsoft/qlib)
+
