@@ -13,3 +13,7 @@
 
 [qlib](https://github.com/microsoft/qlib)
 
+[freqtrade](https://www.freqtrade.io/en/stable/)
+
+[hummingbot.org](https://hummingbot.org/)
+
