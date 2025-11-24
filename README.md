@@ -5,3 +5,9 @@
 
 [Artificial Intelligence in Finance](https://github.com/yhilpisch/aiif)
 
+[Quant wiki](https://quant-wiki.com/)
+
+[AKShare](https://akshare.akfamily.xyz/)
+
+[ai-quant-trade](https://github.com/charliedream1/ai_quant_trade?tab=readme-ov-file)
+
