@@ -17,3 +17,5 @@
 
 [hummingbot.org](https://hummingbot.org/)
 
+[backtrader](https://www.backtrader.com/)
+
